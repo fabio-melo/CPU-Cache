@@ -1,6 +1,6 @@
 # CPU-Cache
 Implementação de Cache em uma CPU com Interpretador Assembly
-(Projeto da disciplina "Arquitetura de Computadores II", da UFPB)
+(Projeto da disciplina "Arquitetura de Computadores II")
 * Requer Python 3.6 e a dependência matplotlib.
 ```
 pip install matplotlib
